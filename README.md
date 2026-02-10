@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,md,github,linux,arch,vscode,obsidian,discord,unity" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,md,github,linux,arch,vscode,obsidian,discord,unity" />
   </a>
 </p>
 
