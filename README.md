@@ -6,4 +6,4 @@
   </a>
 </p>
 
-a Linux user, an Android user, a VRChatter
+a Linux user, an Android user, a Vibe Coder, a VRChatter
